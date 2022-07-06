@@ -1,0 +1,9 @@
+pandas==1.4.2
+numpy==1.21.6
+matplotlib-base==3.5.2
+tslearn==0.5.2
+jupyter==1.0.0
+jupyter_client==7.2.2
+jupyter_console==6.4.3
+jupyter_core==4.10.0
+jupyter_server==1.17.1
