@@ -70,7 +70,7 @@
 |pred.ipynb|展示验证模型正确性|
 |run-training.ipynb|展示训练模型|
 |training.py|训练器封装|
-|data/|数据集|
+|data/|数据集，以*.7z结尾的要先解压才能使用|
 |runs|tensorboard日志|
 |README.md|该任务文档|
 
