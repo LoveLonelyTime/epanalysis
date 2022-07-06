@@ -5,7 +5,7 @@ with open('model/gnb.pickle', 'rb') as f:
 import pandas as pd
 from datetime import date
 current_date = date.today()
-filename = './dataset/test.xlsx' #这里输入需要预测的文件名，格式为xlsx
+filename = './dataset/test.xls' #这里输入需要预测的文件名，格式为xls
 
 #处理数据
 table=pd.read_excel(filename)

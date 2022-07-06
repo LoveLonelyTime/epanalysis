@@ -1,7 +1,7 @@
 import xlrd
 import csv
 # 打开excle
-x1 = xlrd.open_workbook('1.xlsx')
+x1 = xlrd.open_workbook('dataset.xls')
 # 获取工作表
 table = x1.sheets()[0]
 # 获取用户id
